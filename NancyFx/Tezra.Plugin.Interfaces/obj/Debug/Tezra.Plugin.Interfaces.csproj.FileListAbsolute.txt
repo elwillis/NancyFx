@@ -1,0 +1,4 @@
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Interfaces\bin\Debug\Tezra.Plugin.Interfaces.dll
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Interfaces\bin\Debug\Tezra.Plugin.Interfaces.pdb
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Interfaces\obj\Debug\Tezra.Plugin.Interfaces.dll
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Interfaces\obj\Debug\Tezra.Plugin.Interfaces.pdb

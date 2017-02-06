@@ -1,0 +1,12 @@
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\TesterConsole.exe.config
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\TesterConsole.exe
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\TesterConsole.pdb
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\log4net.dll
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\Tezra.Plugin.dll
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\Tezra.Plugin.pdb
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\log4net.xml
+C:\proyectos\NancyFx\NancyFx\TesterConsole\obj\Debug\TesterConsole.csprojResolveAssemblyReference.cache
+C:\proyectos\NancyFx\NancyFx\TesterConsole\obj\Debug\TesterConsole.exe
+C:\proyectos\NancyFx\NancyFx\TesterConsole\obj\Debug\TesterConsole.pdb
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\Tezra.Plugin.Interfaces.dll
+C:\proyectos\NancyFx\NancyFx\TesterConsole\bin\Debug\Tezra.Plugin.Interfaces.pdb

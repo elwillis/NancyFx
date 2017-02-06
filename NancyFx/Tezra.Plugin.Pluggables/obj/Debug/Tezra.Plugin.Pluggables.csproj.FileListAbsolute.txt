@@ -1,0 +1,7 @@
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Pluggables\bin\Debug\Tezra.Plugin.Pluggables.dll
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Pluggables\bin\Debug\Tezra.Plugin.Pluggables.pdb
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Pluggables\bin\Debug\Tezra.Plugin.Interfaces.dll
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Pluggables\bin\Debug\Tezra.Plugin.Interfaces.pdb
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Pluggables\obj\Debug\Tezra.Plugin.Pluggables.csprojResolveAssemblyReference.cache
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Pluggables\obj\Debug\Tezra.Plugin.Pluggables.dll
+C:\proyectos\NancyFx\NancyFx\Tezra.Plugin.Pluggables\obj\Debug\Tezra.Plugin.Pluggables.pdb

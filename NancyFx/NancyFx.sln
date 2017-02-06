@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tezra.Service", "NancyFx\Tezra.Service.csproj", "{4A30481E-EF32-4A00-B388-F226D432FF2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tezra.Service.Tests", "NancyFx.Tests\Tezra.Service.Tests.csproj", "{D018492F-D41F-4E7D-B9EE-537C4C2F711E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tezra.Plugin", "Plugin\Tezra.Plugin.csproj", "{4B06F7E9-2363-48A2-9CAA-F99737BC1B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tezra.Console", "TesterConsole\Tezra.Console.csproj", "{E45E9F5F-CC1C-4316-B7E5-CAE4FF36ABAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tezra.Plugin.Interfaces", "Tezra.Plugin.Interfaces\Tezra.Plugin.Interfaces.csproj", "{425A0ABA-4600-4E5C-A794-F2C251320BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tezra.Plugin.Pluggables", "Tezra.Plugin.Pluggables\Tezra.Plugin.Pluggables.csproj", "{05594A87-CA22-429B-A745-56E6DF69826D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A30481E-EF32-4A00-B388-F226D432FF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A30481E-EF32-4A00-B388-F226D432FF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A30481E-EF32-4A00-B388-F226D432FF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A30481E-EF32-4A00-B388-F226D432FF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D018492F-D41F-4E7D-B9EE-537C4C2F711E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D018492F-D41F-4E7D-B9EE-537C4C2F711E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D018492F-D41F-4E7D-B9EE-537C4C2F711E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D018492F-D41F-4E7D-B9EE-537C4C2F711E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B06F7E9-2363-48A2-9CAA-F99737BC1B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B06F7E9-2363-48A2-9CAA-F99737BC1B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B06F7E9-2363-48A2-9CAA-F99737BC1B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B06F7E9-2363-48A2-9CAA-F99737BC1B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45E9F5F-CC1C-4316-B7E5-CAE4FF36ABAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45E9F5F-CC1C-4316-B7E5-CAE4FF36ABAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45E9F5F-CC1C-4316-B7E5-CAE4FF36ABAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45E9F5F-CC1C-4316-B7E5-CAE4FF36ABAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425A0ABA-4600-4E5C-A794-F2C251320BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425A0ABA-4600-4E5C-A794-F2C251320BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425A0ABA-4600-4E5C-A794-F2C251320BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425A0ABA-4600-4E5C-A794-F2C251320BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05594A87-CA22-429B-A745-56E6DF69826D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05594A87-CA22-429B-A745-56E6DF69826D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05594A87-CA22-429B-A745-56E6DF69826D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05594A87-CA22-429B-A745-56E6DF69826D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
